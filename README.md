@@ -5,7 +5,7 @@ Simple REST API wrapper for https://ved.archi/
 
 ```bash
 $ git clone https://github.com/blazewashere/vedarchi
-$ cd dir
+$ cd vedarchi
 $ chmod +x tests.sh
 ```
 
