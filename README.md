@@ -20,5 +20,11 @@ int main() {
     archi.lists("LYOCTRgrJPzDfter");
 }
 ```
+
+## Requirements
+
+Requires [CPR](https://github.com/whoshuu/cpr)
+
 ## License
+
 [MIT](https://github.com/BlazeWasHere/vedarchi/blob/main/LICENSE)
