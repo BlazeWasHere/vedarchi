@@ -19,8 +19,13 @@ int main() {
     Archi archi;
     archi.lists();
     archi.lists("LYOCTRgrJPzDfter");
+    archi.donations();
 }
 ```
+
+## Other Langs
+
+Python -> [Ved Archi Py](https://github.com/blazewashere/vedarchi-py)
 
 ## Requirements
 
