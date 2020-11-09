@@ -1,6 +1,7 @@
 #include "archi/api.h"
 
 #include <iostream>
+#include <assert.h>
 
 /* Simple example usage */
 
