@@ -33,4 +33,4 @@ Requires [CPR](https://github.com/whoshuu/cpr)
 
 ## License
 
-[MIT](https://github.com/BlazeWasHere/vedarchi/blob/main/LICENSE)
+[MIT](https://github.com/BlazeWasHere/vedarchi/blob/master/LICENSE)
